@@ -8,8 +8,11 @@ selenium: for automated web browser testing
 beautifulsoup4: for parsing HTML documents
 You can install these packages by running the following command in your terminal:
 
-Copy code
+
+
 pip install selenium beautifulsoup4
+
+
 Download and install the appropriate web driver for the browser you want to use. For example, if you want to use Google Chrome, download the ChromeDriver executable from the official website and add it to your system path.
 
 Write a Python script that does the following:
